@@ -1,0 +1,10 @@
+2025-08-10 17:50:54,349 - JmComicDownloader - ERROR - ��ȡר�� 540931 ����ʧ��: HTTPSConnectionPool(host='api.yourcomic.com', port=443): Max retries exceeded with url: /album/540931/detail (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2025-08-10 17:50:56,027 - JmComicDownloader - ERROR - ��ȡר�� 540931 ����ʧ��: HTTPSConnectionPool(host='api.yourcomic.com', port=443): Max retries exceeded with url: /album/540931/detail (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2025-08-10 17:51:00,103 - JmComicDownloader - INFO - ����ر�
+2025-08-10 18:02:16,103 - JmComicDownloader - INFO - ������ʱĿ¼: C:\Users\YukeZhou\AppData\Local\Temp\jm_preview_vwfqaju3
+2025-08-10 18:02:16,881 - JmComicDownloader - ERROR - ��ȡר�� 540931 ����ͼƬʧ��: HTTPSConnectionPool(host='api.yourcomic.com', port=443): Max retries exceeded with url: /album/540931/images (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2025-08-10 18:02:21,035 - JmComicDownloader - INFO - ��������ʱĿ¼: C:\Users\YukeZhou\AppData\Local\Temp\jm_preview_vwfqaju3
+2025-08-10 18:02:21,630 - JmComicDownloader - INFO - ������ʱĿ¼: C:\Users\YukeZhou\AppData\Local\Temp\jm_preview_w3saw6i_
+2025-08-10 18:02:22,149 - JmComicDownloader - ERROR - ��ȡר�� 540931 ����ͼƬʧ��: HTTPSConnectionPool(host='api.yourcomic.com', port=443): Max retries exceeded with url: /album/540931/images (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))
+2025-08-10 18:02:25,048 - JmComicDownloader - INFO - ��������ʱĿ¼: C:\Users\YukeZhou\AppData\Local\Temp\jm_preview_w3saw6i_
+2025-08-10 18:02:31,506 - JmComicDownloader - INFO - ����ر�
