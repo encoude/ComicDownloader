@@ -1,25 +1,21 @@
-使用手册
+# 使用手册
 简介
-jmcomic 是一个用于下载和访问禁漫天堂（JMComic）内容的Python库。本手册提供了安装和使用该库的基本指南。
+ComicDownload 是一个用于下载和访问禁漫天堂（JMComic）内容的Python库。本手册提供了安装和使用该库的基本指南。
 
 环境需求
 Python版本要求
 Python 3.9 ~ 3.12
 
-不支持Python 3.8及以下版本
-
-不支持Python 3.13及以上版本
-
 操作系统支持
 Windows 10/11
-
-macOS (Intel & Apple Silicon)
 
 Linux (Ubuntu/Debian/CentOS等主流发行版)
 
 依赖库
 text
-jmcomic
+jmcomic 2.6.5
+PySide6 6.9.1
+pyinstaller 6.15.0
 requests >= 2.28.0
 beautifulsoup4 >= 4.11.0
 lxml >= 4.9.0
@@ -73,7 +69,7 @@ download_album("album_id_here", option=option)
 python
 from jmcomic import download_album
 
-album_ids = ["12345", "67890", "54321"]
+album_ids = ["359388", "179941"]
 for album_id in album_ids:
     download_album(album_id)
 使用代理
