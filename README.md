@@ -1,6 +1,6 @@
 # 使用手册
 简介
-ComicDownload 是一个用于下载和访问禁漫天堂（JMComic）内容的Python库。本手册提供了安装和使用该库的基本指南。
+ComicDownload 是一个用于下载和访问禁漫天堂（JMComic）内容的简单项目。本手册提供了安装和使用该项目的基本指南。
 
 环境需求
 Python版本要求
